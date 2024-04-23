@@ -16,7 +16,7 @@ Jeremy Nathanael Sidabutar - 4522210089 </h3> <br>
 <h5>Dalam proses interview kami mendapati beberapa kendala yang dihadapi oleh EYO STEAM MOBIL diantaranya adalah mengatur jarak antar mobil saat pengangkutan ke hidrolik, customer EYO STEAM MOBIL seringkali mengalami tabrakan antara mobil dibelakangnya dikarenakan jarak antar mobil yang sangat sempit, keluhan selanjutnya EYO STEAM MOBIL membutuhkan dukungan dari media sosial terkait periklanan tentang bisnisnya.
 </h5> <br>
 
-<h2><SOLUTION</h2>
+<h2>SOLUTION</h2>
 <h5>Untuk cara mengatasi dari permasalahan yang ada, beberapa karyawan EYO STEAM MOBIL melakukan beberapa cara agar setiap mobil tidak saling bertabrakan, yaitu dengan cara membuat dan menata antrean dan melakukan peninjauan pada setiap mobil agar tidak saling bertabrakan, pada permasalahan selanjutnya beberapa karyawan telah mengiklankan EYO STEAM MOBIL di beberapa platform yang tersedia contohnya Instagram, Tiktok, dan Whatsapp.</h5> <br>
 
 <h2>THE ACTOR</h2>
@@ -30,7 +30,7 @@ USE CASE <br>
 
 <h2>NOTA</h2>
 
-<h2>ERD</h2>
+ERD <br>
 ![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
 
 
