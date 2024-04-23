@@ -36,5 +36,3 @@ ERD <br>
 
 <h2>WIREFRAME</h2>
 <h5>LINK FIGMA: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
-
-<h2>PROTOYPE</h2>
