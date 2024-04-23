@@ -29,7 +29,7 @@ Jeremy Nathanael Sidabutar - 4522210089 </h3> <br>
 <h2>NOTA</h2>
 
 <h2>ERD</h2>
-![erd_steam](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/9d9dd711-841f-4ec6-8a0e-2beb02324f7e)
+![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
 
 
 <h2>WIREFRAME</h2>
