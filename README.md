@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Daniel Daud Alberthus</h1>
 <h3 align="center">I am an informatics engineering student at Pancasila University</h3>
-
+<img align="right" alt="HelloWorld" width="400" src="https://hackernoon.com/images/f2px36fy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldaudalberthus&label=Profile%20views&color=0e75b6&style=flat" alt="danieldaudalberthus" /> </p>
 
 - 🔭 I’m currently working on **Mobile Legends Customer Service**
