@@ -36,3 +36,29 @@ ERD <br>
 
 <h2>WIREFRAME</h2>
 <h5>LINK FIGMA: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
+
+Role Pengguna 
+- Pada laman pertama akan ditampilkan halaman login dimana customer diminta untuk memasukkan username dan password setelah memiliki akun. Apabila belum memilki akun diminta untuk mengisi data kendaraan dan data kepemilikan.
+- Setelah customer login, akan ada tampilan logo notifikasi, riwayat pemesanan, status pemesanan, booking, dan pembayaran. Lalu di bawahnya ada tampilan iklan tentang Eyo Steam dan terdapat pilihan layanan yang di sediakan Eyo Steam meliputi Pencucian Eksterior, Pencucian Interior, Poles & Waxing, dan Setting. Untuk paling bawah terdapat Button home, chat, Setting, dan Profile Customer
+- Pada halaman Setting, terdapat pengaturan umum dan nomor telepon. Lalu kami menyediakan mode gelap dan mode terang tergantung senyaman nya penggunaan customer, tersedia juga ganti kata sandi agar memudahkan customer apabila lupa terhadap kata sandi mereka. Customer juga dapat memilih bahasa yang akan mereka gunakan pada aplikasi ini pada Pilihan Bahasa. Untuk informasi lebih lanjut, customer dapat melihat tentang aplikasi, Syarat & Ketentuan, dan customer juga dapat membagikan aplikasi ini. 
+- Lalu untuk halaman chat akan di hubungkan langsung ke admin dari aplikasi Eyo Steam ini, serta customer dapat menyampaikan/menanyakan apapun tentang kendaraan yang sedang di kerjakan
+- Lalu untuk proses booking, customer diminta untuk menentukan tanggal dan waktu untuk melakukan steam di Eyo Steam
+- Selanjutnya pada fitur status pemesanan, customer dapat melihat/memantau status kendaraan yang di cuci di Eyo steam sedang dalam pengerjaan apa. Akan ada tulisan mobil sedang di cuci atau pun mobil selesai dicuci. Apabila customer mencuci 2 mobil atau lebih, akan terlihat jenis mobil tersebut sedang dalam proses pengerjaan apa. Dengan detail pemesanan pun customer akan melihat proses pengerjaan kendarannya. 
+- Pada bagian pembayaran, customer akan melihat nama nya sendiri dan deskripsi layanan apa saja yang di kerjakan pada kendaraannya dan akan di tampilkan harga total dari semua layanan nya. Customer dapat membayar nya melalui kasir atau bisa dengan Qrish
+- Pada halaman riwayat pemesanan, customer akan melihat proses selesai kendaraannya dan dengan detail pengerjaan apa yang di lakukan pada kendaraan customer. Lalu customer diminta untuk memberikan penilaian untuk Eyo Steam tersebut. 
+
+Role Petugas 
+- Pada laman pertama akan ditampilkan halaman login dimana petugas diminta untuk memasukkan username dan password setelah diberikan akun Eyo Steam. Login tersebut akan di lakukan oleh admin Eyo Steam
+- Setelah melakukan login, admin akan ditampilkan kata pembuka selamat datang dan di samping nya terdapat fitur notifikasi. Kemudian, admin akan di mudahkan dengan adanya fitur ambil pesanan, riwayat pesanan, check in, dan dashboard. Pada navigasi bawah, terdapat home, chat, setting, dan profile dari Eyo Steam.
+- Pada halaman ambil pesanan, admin akan ditunjukkan kendaraan apa saja yang sudah membooking atau antri untuk di cuci/layanan lain untuk kendaraannya. Admin dimudahkan dengan adanya fitur terima, karena secara otomatis akan menerima antrian pengerjaan kendaraan selanjutnya
+- Pada halaman riwayat pesanan, admin akan di tampilkan kendaraan apa saja yang telah di kerjakan di Eyo Steam, dan dapat melihat penilaian yang diberikan oleh si customer
+- Pada halaman check in, admin akan dapat di kontrol oleh si pemilik steam dengan adanya fitur Absen Masuk, Absen Keluar, Istirahat, dan Izin Kerja. Admin steam harus mengisi kehadiran kerja nya pada bagian check in ini. 
+- Pada halaman Dashboard, admin akan dimudahkan dengan ada nya fitur Trend dan tanggal dan Waktu. Admin akan mengetahui/mengecek pada tanggal sekian terdapat berapa pesanan yang di ambil, dan berapa pesanan yang telah selesai. Lalu akan langsung di total dari hasil semuanya berapa total pendapatan yang sudah terkumpul.
+Contoh: 
+Tanggal 24 April 2024 
+Pesanan Diambil
+10
+Pesanan Selesai
+5
+Total Pendapatan
+300.000
