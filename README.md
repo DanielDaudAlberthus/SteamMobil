@@ -9,6 +9,18 @@ Daniel Daud Alberthus - 4522210055 <br>
 Jeremy Nathanael Sidabutar - 4522210089 </h3> <br>
   
 
+
+<h2>THE ACTOR</h2>
+<h5><i>1. Customer</i></h5>
+<h5><i>2. Petugas</i></h5> <br>
+
+USE CASE <br>
+![image](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/3c5f9044-dc5c-4af6-bfbb-e6c520526cdb)
+
+CLASS DIAGRAM <br>
+![Class Diagram APBO drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/148308997/1e7bd133-0b67-496c-9775-88b4e43edfa1)
+
+
 CLASS DIAGRAM <br>
 ![Class Diagram APBO drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/148308997/1e7bd133-0b67-496c-9775-88b4e43edfa1)
 
@@ -22,3 +34,4 @@ ERD <br>
 
 <h2>WIREFRAME</h2>
 <h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
+
