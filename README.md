@@ -26,7 +26,7 @@ Jeremy Nathanael Sidabutar - 4522210089 </h3> <br>
 USE CASE <br>
 ![image](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/3c5f9044-dc5c-4af6-bfbb-e6c520526cdb)
 
-<h2>Class Diagram</h2>
+Class Diagram <br>
 ![Class Diagram APBO drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/148308997/1e7bd133-0b67-496c-9775-88b4e43edfa1)
 
 
