@@ -74,5 +74,5 @@ Total Pendapatan
 <h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
 
 <h2>Youtube</h2>
-<h5>Link Youtube: </h5>
+<h5>Link Presentasi Youtube: https://youtu.be/OE2-YDiHqIE </h5>
 
