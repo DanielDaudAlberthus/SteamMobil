@@ -40,6 +40,10 @@ CLASS DIAGRAM <br>
 ERD <br>
 ![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
 
+SEQUENCE DIAGRAM <br>
+![image](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/d01f4737-0805-436a-ac13-d92546e32c87)
+
+
 
 <h2>WIREFRAME & MOCKUP</h2>
 
