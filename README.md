@@ -35,7 +35,11 @@ ERD <br>
 ![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
 
 SEQUENCE DIAGRAM <br>
-![image](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/d01f4737-0805-436a-ac13-d92546e32c87)
+![image](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/d01f4737-0805-436a-ac13-d92546e32c87)'
+
+ACTIVITY DIAGRA <br>
+![Activity Diagram drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/da63ff20-e636-4267-b72c-9795a4e0af51)
+
 
 
 
