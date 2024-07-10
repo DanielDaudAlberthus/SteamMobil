@@ -28,7 +28,8 @@ USE CASE <br>
 ![image](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/3c5f9044-dc5c-4af6-bfbb-e6c520526cdb)
 
 CLASS DIAGRAM <br>
-![Class Diagram APBO drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/148308997/1e7bd133-0b67-496c-9775-88b4e43edfa1)
+![WhatsApp Image 2024-07-10 at 07 46 09_0baf943c](https://github.com/DanielDaudAlberthus/SteamMobil/assets/144523084/ae05579d-f2ed-44d5-ae70-807f6406dfcc)
+
 
 <h2>NOTA</h2>
 
