@@ -37,7 +37,8 @@ ERD <br>
 ![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
 
 SEQUENCE DIAGRAM <br>
-![image](https://github.com/DanielDaudAlberthus/SteamMobil/assets/144523084/35609743-8ccb-49f4-8c09-1fdae33e18c3)
+![image](https://github.com/DanielDaudAlberthus/SteamMobil/assets/144523084/16fec66e-5af8-44e3-a58f-5f0cf2277ca9)
+
 
 
 ACTIVITY DIAGRAM <br>
