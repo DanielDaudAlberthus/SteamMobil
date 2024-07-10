@@ -1,6 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <br>
-<h1 align="center">Steam Mobil - Kelompok 2</h1>
+<h1 align="center">EYO STEAM - KELOMPOK 2</h1>
+<h2 align="center">UAS Analisis Perancangan Berorientasi Objek</h2>
 <h3 align="center">Beranggotakan:</h3>
 <h3 align="center">Matthew Aldhino Sirait - 4522210087  <br>
 Samuel Nardus Hamonangan Sinaga - 4522210069 <br>
